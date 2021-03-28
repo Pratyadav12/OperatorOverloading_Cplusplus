@@ -140,6 +140,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="main.cpp" />
+    <ClCompile Include="overloading_assignment_operator.cpp" />
     <ClCompile Include="overloading_stream_operator.cpp" />
     <ClCompile Include="overloading_subscript_deference_operator.cpp" />
     <ClCompile Include="overloading_subscript_operator.cpp" />

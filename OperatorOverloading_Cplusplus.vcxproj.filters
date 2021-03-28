@@ -30,5 +30,8 @@
     <ClCompile Include="overloading_subscript_operator.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="overloading_assignment_operator.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
